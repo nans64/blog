@@ -1,4 +1,4 @@
-# THP - Semaine 4 - CLASS
+# THP - Semaine 4 - BLOG
 
 Execute $ bundle install then you are ready to go
 
